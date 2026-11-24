@@ -24,3 +24,9 @@
 ## Құжаттама
 - [Activity: ауа сапасының болжамын көру](docs/analysis/activity-view-air-forecast.png)
 - [Sequence: ауа сапасының болжамын көру](docs/analysis/sequence-view-air-forecast.png)
+- [Context DFD](docs/analysis/dfd-context.png)
+- [DFD 0-деңгей](docs/analysis/dfd-level0.png)
+- [DFD 1-деңгей](docs/analysis/dfd-level1.png)
+- [ERD](docs/database/erd.png)
+- [SQL схема](docs/database/schema.sql)
+- [Сұраныс нәтижесі](docs/database/query-results.png)

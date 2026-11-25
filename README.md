@@ -105,3 +105,12 @@
 | 05 — Қате хабарламалары | 6 | `measurements` | `pm25` (бос өріс), `aqi` (қате формат) |
 | 06 — Болжам және қауіп | 2, 3 | `forecasts`, `districts` | `district_id`, `forecast_date`, `predicted_pm25`, `risk_level` |
 | 07 — Денсаулық профилі | 4 | `users`, `health_profiles` | `user_id`, `condition_type`, `recommendations` |
+## Құжаттама
+- [Activity: ауа сапасының болжамын көру](docs/analysis/activity-view-air-forecast.png)
+- [Sequence: ауа сапасының болжамын көру](docs/analysis/sequence-view-air-forecast.png)
+- [Context DFD](docs/analysis/dfd-context.png)
+- [DFD 0-деңгей](docs/analysis/dfd-level0.png)
+- [DFD 1-деңгей](docs/analysis/dfd-level1.png)
+- [ERD](docs/database/erd.png)
+- [SQL схема](docs/database/schema.sql)
+- [Сұраныс нәтижесі](docs/database/query-results.png)
